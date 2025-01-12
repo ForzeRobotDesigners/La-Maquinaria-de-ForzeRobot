@@ -16,7 +16,7 @@ Si tienes alguna idea para mejorar mis proyectos, ¡no dudes en contribuir! Pued
 
 ## Contacto
 
-Si quieres hablar sobre desarrollo de juegos o cualquier tema relacionado, puedes encontrarme en (https://github.com/ForzeRobot)
+Si quieres hablar sobre desarrollo de juegos o cualquier tema relacionado, puedes encontrarme en (https://github.com/ForzeRobotDesigners)
 
 ---
 
